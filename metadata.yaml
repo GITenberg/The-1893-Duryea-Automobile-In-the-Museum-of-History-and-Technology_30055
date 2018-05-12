@@ -1,0 +1,26 @@
+_repo: The-1893-Duryea-Automobile-In-the-Museum-of-History-and-Technology_30055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berkebile, Donald H.
+    alias: Berkebile, Don H.
+    gutenberg_agent_id: '34057'
+    url: http://www.gutenberg.org/2009/agents/34057
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2009-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Duryea automobile'
+- !lcc 'Q'
+title: The 1893 Duryea Automobile In the Museum of History and Technology
+url: http://www.gutenberg.org/ebooks/30055
